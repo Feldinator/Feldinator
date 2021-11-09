@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Feldinator
+- 👀 I’m interested in Punk, Music, Design and Games
+- 🌱 I’m currently learning CSS, Javascript and Pyrhon
